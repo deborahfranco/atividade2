@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>AULA PPW 02</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h2 id="texto01"> Aula CSS </h2>  
+      luciana - faltou
+      <p class="formatacao azul"> Lorem ipsum dolor sit amet
+         consectetur adipisicing elit. Ex quo sint nostrum rerum!
+          <span class="vermelho"> Sunt ut deserunt </span>ullam, 
+          assumenda saepe error cumque impedit delectus 
+           quo excepturi <span class="verde">voluptatibus </span>
+       nostrum obcaecati. Aperiam, necessitatibus.</p>
+</body>
+
+</html>￼Enter
